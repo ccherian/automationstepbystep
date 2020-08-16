@@ -1,0 +1,16 @@
+total 3268
+drwxr-xr-x 1 ccherian 197121       0 Aug 15 03:38 bin
+drwxr-xr-x 1 ccherian 197121       0 Aug 15 03:38 cmd
+drwxr-xr-x 1 ccherian 197121       0 Aug 15 03:38 dev
+drwxr-xr-x 1 ccherian 197121       0 Aug 15 03:38 etc
+-rwxr-xr-x 1 ccherian 197121  152128 Jul 28 08:59 git-bash.exe
+-rwxr-xr-x 1 ccherian 197121  151616 Jul 28 08:59 git-cmd.exe
+-rw-r--r-- 1 ccherian 197121   18765 Jul 28 09:23 LICENSE.txt
+drwxr-xr-x 1 ccherian 197121       0 Aug 15 03:38 mingw64
+dr-xr-xr-x 9 ccherian 197121       0 Aug 17 00:30 proc
+-rw-r--r-- 1 ccherian 197121  183152 Jul 28 09:23 ReleaseNotes.html
+drwxr-xr-x 1 ccherian 197121       0 Aug 17 00:26 tmp
+-rw-r--r-- 1 ccherian 197121 1198366 Aug 15 03:38 unins000.dat
+-rwxr-xr-x 1 ccherian 197121 1300896 Aug 15 03:36 unins000.exe
+-rw-r--r-- 1 ccherian 197121   22795 Aug 15 03:38 unins000.msg
+drwxr-xr-x 1 ccherian 197121       0 Aug 15 03:38 usr
